@@ -1,7 +1,7 @@
 import getBuffer from "./getBuffer";
 import ArrayBufferConverter from "./ArrayBufferConvert";
 
-const buffer = getbuffer();
+const buffer = getBuffer();
 
 const test = new ArrayBufferConverter;
 
